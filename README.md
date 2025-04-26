@@ -22,3 +22,7 @@ git clone https://github.com/gar-o/book-log-app.git
 cd book-log-app
 npm install
 npm run dev
+
+## 📦 実行方法（リモート）
+以下にアクセスしてください
+https://book-log-app-seven.vercel.app/

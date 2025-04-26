@@ -23,6 +23,6 @@ cd book-log-app
 npm install
 npm run dev
 
-## 📦 実行方法（リモート）
-以下にアクセスしてください
-https://book-log-app-seven.vercel.app/
+🌐 実行方法（リモート）
+Vercelにデプロイ済みです。以下からアクセスできます：
+👉 https://book-log-app-seven.vercel.app/

@@ -25,5 +25,5 @@ npm run dev
 ```
 
 ## 🌐 実行方法（リモート）
-Vercelにデプロイ済みです。以下からアクセスできます：
+Vercelにデプロイ済みです。以下からアクセスできます
 👉 https://book-log-app-seven.vercel.app/
